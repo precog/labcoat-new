@@ -1,0 +1,44 @@
+// COLORS
+.bg-complement1(@value) {
+	background-color: spin(@value, 180);
+}
+.bg-complement2(@value) {
+	background-color: darken(spin(@value, 180), 5%);
+}
+.bg-lighten1(@value) {
+	background-color: lighten(@value, 15%);
+}
+.bg-lighten2(@value) {
+	background-color: lighten(@value, 30%);
+}
+.fg-complement1(@value) {
+	color: spin(@value, 180);
+}
+.fg-complement2(@value) {
+	color: darken(spin(@value, 180), 5%);
+}
+.fg-lighten1(@value) {
+	color: lighten(@value, 15%);
+}
+.fg-lighten2(@value) {
+	color: lighten(@value, 30%);
+}
+
+// TRANSFORM
+.transform-origin(@args)
+{
+  -webkit-transform-origin: @args;
+  -moz-transform-origin: @args;
+  -ms-transform-origin: @args;
+  -o-transform-origin: @args;
+  transform-origin: @args;
+}
+
+// Transformations
+.transform(@transform) {
+  -webkit-transform: @transform;
+     -moz-transform: @transform;
+      -ms-transform: @transform;
+       -o-transform: @transform;
+          transform: @transform;
+}

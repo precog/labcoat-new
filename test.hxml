@@ -1,0 +1,11 @@
+-js bin/test/test.js
+-main TestAll
+-cp test
+-cp src
+-lib utest
+-lib thx-react
+-lib thx-core
+-lib jQueryExtern
+-D embed_jquery
+-debug
+--times

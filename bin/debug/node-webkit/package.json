@@ -1,0 +1,9 @@
+{
+  "name": "labcoat",
+  "main": "index.html",
+  "window": {
+    "title": "Labcoat 2.0 - Beta",
+    "toolbar": false
+  },
+  "nodejs": false
+}

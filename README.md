@@ -1,4 +1,4 @@
-labcoat-new
-===========
+labcoat
+=======
 
-The next-generation of Labcoat, a powerful development environment for Quirrel scripts.
+Labcoat 2

@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Labcoat2\n"
+"POT-Creation-Date: 2013-03-26 18:38+0100\n"
+"PO-Revision-Date: 2013-03-26 18:50-0700\n"
+"Last-Translator: Franco Ponticelli <franco@precog.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+
+msgid "chat"
+msgstr ""
+
+msgid "reference"
+msgstr ""
+
+msgid "examples"
+msgstr ""
+
+msgid "file system"
+msgstr ""
+
+msgid "my notes"
+msgstr ""
+
+msgid "sharing"
+msgstr ""
+
+msgid "tasks"
+msgstr ""
+
+msgid "tutorial"
+msgstr ""
+
+msgid "new notebook"
+msgstr ""
+
+msgid "close notebook"
+msgstr ""
+
+msgid "insert region"
+msgstr ""
+
+msgid "notebook #{0}"
+msgstr ""
+
+msgid "switch to {0}"
+msgstr ""
+
+msgid "delete"
+msgstr ""

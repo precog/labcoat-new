@@ -1,0 +1,15 @@
+-cp src
+-cp test
+-js bin/release/html5/js/labcoat.js
+-main labcoat.Main
+#DEFS
+-D html5
+#-D embed_js
+-D embed_jquery
+-D js-classic
+#LIBS
+-lib thx-core
+-lib thx-culture
+-lib thx-react
+-lib jQueryExtern
+--times
